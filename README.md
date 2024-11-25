@@ -99,13 +99,13 @@ Outils maîtrisés : **React.js, Ruby on Rails, Docker, Git, CI/CD**
 
 **Master de Sciences en Informatique Business**
  ~ Vienne, Autriche 
- ~ 09/2019 - 07/2020
+ ~ 09/2018 - 07/2019
 
 - **TU Wien**: Technische Universität Wien
 
 **Master de Sciences et *Ingénieur* en Informatique** 
  ~ Lyon, France
- ~ 09/2016 - 07/2019
+ ~ 09/2016 - 07/2018
 
 - **INSA Lyon**: Institut Nationale des Sciences Appliquées de Lyon
 
