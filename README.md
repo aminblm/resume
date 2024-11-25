@@ -36,7 +36,7 @@ Ingénieur en informatique avec plus de 8 ans d'expérience en développement Fu
 ~ Barcelone, Espagne
 ~ *11/2020 - 02/2022*
 
-- Boosté l'efficacité des équipes de développement de 40% grâce à l'automatisation des tests dans le pipeline CI/CD.
+- Boosté l'efficacité des équipes de développement de 40% grâce à l'automatisation des tests dans le pipeline **CI/CD**.
 - Réduit le temps de réponse des requêtes de 40% grâce à une architecture microservices avec **GraphQL** et **PostgreSQL**.  
 - Augmenté l'efficacité de gestion client de 35% en développant un CRM personnalisé avec **React.js** et **TypeScript**.  
 - Diminution des bugs en production de 30% en optimisant les tests à 95% avec **Cypress**.  
@@ -118,4 +118,4 @@ Outils maîtrisés : **React.js, Ruby on Rails, Docker, Git, CI/CD**
 
 ## Livre
 
-[~P1]: **Programmation Python : Un guide complet du développement logiciel avec des applications réelles**, <u>Amin Boulouma</u>
+[~P1]: [**Programmation Python : Un guide complet du développement logiciel avec des applications réelles**, Amin Boulouma](https://www.amazon.fr/Python-Programming-Comprehensive-Development-Application/dp/B0BW2G3W2R?_encoding=UTF8&qid=&sr=)
